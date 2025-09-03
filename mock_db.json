@@ -1,0 +1,51 @@
+{
+  "Cuttack": {
+    "active_cases": 1250,
+    "recovered": 45200,
+    "deaths": 350,
+    "vaccination_centers": [
+      "SCB Medical College, Cuttack",
+      "City Hospital, Cuttack",
+      "CHC, Salepur"
+    ]
+  },
+  "Khurda": {
+    "active_cases": 2800,
+    "recovered": 98500,
+    "deaths": 890,
+    "vaccination_centers": [
+      "AIIMS, Bhubaneswar",
+      "Capital Hospital, Bhubaneswar",
+      "PHC, Jatni"
+    ]
+  },
+  "Puri": {
+    "active_cases": 850,
+    "recovered": 25000,
+    "deaths": 210,
+    "vaccination_centers": [
+      "District HQ Hospital, Puri",
+      "CHC, Pipili",
+      "Gopabandhu Ayurveda Mahavidyalaya"
+    ]
+  },
+  "Ganjam": {
+    "active_cases": 980,
+    "recovered": 65300,
+    "deaths": 550,
+    "vaccination_centers": [
+      "MKCG Medical College, Berhampur",
+      "City Hospital, Berhampur",
+      "CHC, Aska"
+    ]
+  },
+  "Sambalpur": {
+    "active_cases": 720,
+    "recovered": 21000,
+    "deaths": 180,
+    "vaccination_centers": [
+      "VIMSAR, Burla",
+      "District HQ Hospital, Sambalpur"
+    ]
+  }
+}
